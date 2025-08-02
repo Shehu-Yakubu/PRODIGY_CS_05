@@ -17,10 +17,10 @@ Develop a packet sniffer tool that captures and analyzes network packets. Displa
   * Payload (in readable format, if possible)
 
 ## Ethical Guidelines for Use
-*✅ Use on your own machines or lab networks.
-*❌ Do not capture traffic from public Wi-Fi or others’ networks without permission.
-*✅ Great for learning protocol structures (TCP/IP, UDP, ICMP).
-*✅ Can be adapted for cybersecurity education or forensic analysis labs.
+* ✅ Use on your own machines or lab networks.
+* ❌ Do not capture traffic from public Wi-Fi or others’ networks without permission.
+* ✅ Great for learning protocol structures (TCP/IP, UDP, ICMP).
+* ✅ Can be adapted for cybersecurity education or forensic analysis labs.
 
 ## Contributions
 Feel free to contribute to the improvement of this tool by submitting pull requests or opening issues.
